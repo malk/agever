@@ -1,0 +1,9 @@
+* what
+** a standard for a versioning system
+** 
+* why
+* when
+* where
+* who
+* how
+   
